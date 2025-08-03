@@ -1,13 +1,29 @@
-# Relatório de Visita Técnica à DIGTI/IFRN
+# S.O. 2025.1 - Atividade 2.01 - Relatório de visita a [DIGTI](https://portal.ifrn.edu.br/institucional/tecnologia-da-informacao/)
 
-**Disciplina:** Sistemas Operacionais  
-**Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas  
-**Aluno:** [Seu Nome]  
-**Data da Visita:** [dd/mm/aaaa]  
-**Local Visitado:** Diretoria de Gestão de Tecnologia da Informação (DIGTI) - IFRN Campus Natal-Central  
+## Informações gerais
 
----
+- **Objetivo do repositório**: Repositório para atividade avaliativa dos alunos
+- **Assunto**: Visita a [DIGTI](https://portal.ifrn.edu.br/institucional/tecnologia-da-informacao/)
+- **Público alvo**: alunos da disciplina de SO (Sistemas Operacionais) do curso de TADS (Superior em Tecnologia em Análise e Desenvolvimento de Sistemas) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central).
+- disciplina: **SO** [Sistemas Operacionais](https://github.com/sistemas-operacionais/)
+- professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
+- Repositótio do aluno: https://github.com/GustavoMaci/2025-1-Atividade-2.1-DIGTI-Relatorio-Visita
 
+## Tarefas do aluno
+
+1. Fork deste repositório
+2. Crie um arquivo relatorio.md (deve ser escrito em markdown)
+3. As imagens devem ficar em uma pasta `\imagens`
+4. Relate do seu ponto de vista a visita considerando a estrutura abaixo
+
+### Estrutura do relatório
+
+#### Cabeçalho
+- **Disciplina:** Sistemas Operacionais 
+- **Curso**: Tecnologia em Análise e Desenvolvimento de Sistemas
+- **Aluno:** Gustavo Henrique da Cruz Maciel
+- **Data da Visita:** [27/06/2025]
+- **Local Visitado:** Diretoria de Gestão de Tecnologia da Informação (DIGTI)
 ## 1. Introdução
 
 A DIGTI é o coração tecnológico do IFRN, responsável por manter sistemas como o SUAP, redes, servidores e toda a infraestrutura de TI que usamos diariamente. Confesso que estava ansioso para essa visita, pois queria entender como a teoria que vemos em sala - sobre gerência de processos, memória e virtualização - se aplica na prática. Apesar de ter ficado com algumas dúvidas (que vou mencionar mais adiante), a experiência foi super válida para conectar os conceitos da disciplina com o mundo real.
