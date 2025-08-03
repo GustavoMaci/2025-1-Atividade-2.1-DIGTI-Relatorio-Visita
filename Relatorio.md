@@ -87,6 +87,3 @@ Achei que seria legal ver:
 No geral, valeu muito a pena, mesmo com as dúvidas que ficaram. Agora quando usar o SUAP vou lembrar de toda a complexidade por trás dele!
 
 ---
-
-**Observação pessoal:**  
-*"Depois dessa visita, fiquei pensando se um dia vou trabalhar num lugar assim... Será que deixariam um estagiário mexer nos servidores ou só olhar de longe?"* 😅
