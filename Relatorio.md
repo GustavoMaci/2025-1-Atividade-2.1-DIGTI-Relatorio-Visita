@@ -26,7 +26,7 @@
 - **Local Visitado:** Diretoria de Gestão de Tecnologia da Informação (DIGTI)
 ## 1. Introdução
 
-A DIGTI é o coração tecnológico do IFRN, responsável por manter sistemas como o SUAP, redes, servidores e toda a infraestrutura de TI que usamos diariamente. Confesso que estava ansioso para essa visita, pois queria entender como a teoria que vemos em sala - sobre gerência de processos, memória e virtualização - se aplica na prática. Apesar de ter ficado com algumas dúvidas (que vou mencionar mais adiante), a experiência foi super válida para conectar os conceitos da disciplina com o mundo real.
+A DIGTI é o coração tecnológico do IFRN, responsável por manter sistemas como o SUAP, redes, servidores e toda a infraestrutura de TI que usamos diariamente. Foi uma experiência muito boa poder realizar a visita, pois queria entender como a teoria que vemos em sala - sobre gerência de processos, memória e virtualização - se aplica na prática. Apesar de ter ficado com algumas dúvidas (que vou mencionar mais adiante), a experiência foi super válida para conectar os conceitos da disciplina com o mundo real.
 
 ---
 
@@ -34,10 +34,10 @@ A DIGTI é o coração tecnológico do IFRN, responsável por manter sistemas co
 
 ### A Equipe da DIGTI
 
-Ficamos sabendo que o time é dividido em várias áreas:
-- **Administradores de Sistemas:** Os "mágicos" que cuidam dos servidores físicos e virtuais
-- **Analistas de Redes:** Responsáveis por toda a parte de conectividade do campus
-- **Suporte Técnico:** Quem resolve nossos problemas no dia a dia
+- A DIGTI é responsável por manter toda a infraestrutura tecnológica do IFRN, incluindo servidores, redes, suporte técnico e sistemas como o SUAP.
+- A equipe é dividida em setores como administração de sistemas, redes e suporte técnico.
+- Utilizam tecnologias como virtualização (com VMware), monitoramento de serviços com ferramentas como o Zabbix, e sistemas de segurança em múltiplas camadas.
+- O sistema SUAP, por exemplo, é distribuído em servidores virtuais e conta com balanceamento de carga para atender a alta demanda de acessos.
 
 ### Como funciona a Infraestrutura
 
@@ -45,10 +45,6 @@ O que mais me chamou atenção:
 - **SUAP:** Roda em vários servidores virtuais com balanceamento de carga
 - **Virtualização:** Usam VMware para criar máquinas virtuais
 - **Monitoramento:** Ferramentas como Zabbix ficam de olho em tudo
-
-**Dúvidas que ficaram:**
-- Como exatamente o balanceamento de carga decide qual servidor vai atender cada requisição?
-- Qual a diferença prática de desempenho entre um servidor físico e um virtual?
 
 ---
 
@@ -71,19 +67,10 @@ O que mais me chamou atenção:
 ---
 
 ## 4. Considerações Finais
+A visita à DIGTI parece ter sido uma oportunidade valiosa para observar, na prática, como os conceitos de sistemas operacionais são aplicados em ambientes reais. A experiência relatada pelos colegas me fez perceber a complexidade por trás da infraestrutura que usamos diariamente como alunos, especialmente na manutenção de sistemas como o SUAP.
 
-A visita me mostrou como a teoria de Sistemas Operacionais é importante no mundo real. Fiquei fascinado pela parte de virtualização, mas confesso que saí com mais perguntas do que respostas - especialmente sobre:
+Considero que o contato com essas informações complementa minha formação e reforça a importância dos conhecimentos abordados na disciplina.
 
-- Como é o trabalho diário dos administradores de sistemas
-- Como configuram a rede para tantos usuários
-- Quais são os planos para atualizar a infraestrutura
-
-**O que faltou?** 
-Achei que seria legal ver:
-- Uma demonstração prática de como criar uma VM
-- Como é a sala de servidores fisicamente
-- Mais detalhes sobre carreira na área
-
-No geral, valeu muito a pena, mesmo com as dúvidas que ficaram. Agora quando usar o SUAP vou lembrar de toda a complexidade por trás dele!
+Espero ter outra oportunidade de vivenciar diretamente esse tipo de visita técnica no futuro.
 
 ---
